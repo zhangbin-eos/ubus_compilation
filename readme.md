@@ -1,4 +1,8 @@
 
+json-c-0.17-20230812
+libubox  6339204c21
+ubus     65bb027054
+
 
 ```sh
 sudo -s
